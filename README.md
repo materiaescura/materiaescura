@@ -1,4 +1,4 @@
-### Olá, eu sou o Diego Rabelo ✌️
+### Olá, eu sou o Diego ✌️
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/materiaescura)
 
 [![Diego Rabelo stats](https://github-readme-stats.vercel.app/api/top-langs/?username=materiaescura&layout=compact)](https://github.com/materiaescura/github-readme-stats)
